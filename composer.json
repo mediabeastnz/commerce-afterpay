@@ -1,7 +1,7 @@
 {
   "name": "mediabeastnz/commerce-afterpay",
   "description": "Afterpay integration for Craft Commerce 2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "craft-plugin",
   "keywords": [
     "afterpay",
@@ -41,6 +41,6 @@
   "extra": {
     "name": "Afterpay gateway for Craft Commerce 2",
     "handle": "craft-commerce-afterpay",
-    "schemaVersion": "1.0.0"
+    "schemaVersion": "1.0.1"
   }
 }
