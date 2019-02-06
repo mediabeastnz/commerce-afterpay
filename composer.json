@@ -1,0 +1,40 @@
+{
+  "name": "mediabeastnz/commerce-afterpay",
+  "description": "Afterpay integration for Craft Commerce 2",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "keywords": [
+    "afterpay",
+    "after pay",
+    "gateway",
+    "commerce",
+    "craftcms",
+    "omnipay",
+    "yii2"
+  ],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Myles Derham",
+      "homepage": "https://github.com/mediabeastnz"
+    }
+  ],
+  "support": {
+    "email": "myles.derham@gmail.com",
+    "issues": "https://github.com/mediabeastnz/commerce-afterpay/issues?state=open",
+    "source": "https://github.com/mediabeastnz/commerce-afterpay",
+    "docs": "https://github.com/mediabeastnz/commerce-afterpay",
+    "rss": "https://github.com/mediabeastnz/commerce-afterpay/commits/master.atom"
+  },
+  "autoload": {
+    "psr-4": {
+      "mediabeastnz\\afterpay\\": "src/"
+    }
+  },
+
+  "extra": {
+    "name": "Afterpay gateway for Craft Commerce 2",
+    "handle": "craft-commerce-afterpay",
+    "schemaVersion": "1.0.0"
+  }
+}
